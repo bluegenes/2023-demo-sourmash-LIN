@@ -1,0 +1,17 @@
+name: 2023-lin-demo
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - snakemake=7.22.0
+  - pandas>=1.5.2
+  - rust=1.67
+  - seaborn=0.12.2
+  - jupyterlab
+  - tqdm
+  - screed
+  - pip
+  - pip:
+    - git+https://github.com/dib-lab/sourmash@lins-v2#egg=sourmash
