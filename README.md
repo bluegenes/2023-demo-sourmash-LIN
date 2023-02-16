@@ -1,2 +1,3 @@
 # 2023-demo-sourmash-LIN
-binder taking too long, fresh version without large files!
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bluegenes/2023-demo-sourmash-LIN/HEAD?labpath=sourmash-lin-demo.ipynb)
