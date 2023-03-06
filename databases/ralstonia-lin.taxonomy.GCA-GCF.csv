@@ -1,4 +1,4 @@
-LIN,Species,Strain,FileName,Accession,ident
+lin,species,strain,filename,accession,ident
 14;1;0;0;0;0;0;0;0;0;6;0;1;0;1;0;0;0;0;0,Ralstonia solanacearum,OE1_1,GCF_001879565.1_ASM187956v1_genomic.fna,GCF_001879565.1,GCF_001879565.1
 14;1;0;0;0;0;0;0;0;0;6;0;1;0;0;0;0;0;0;0,Ralstonia solanacearum,PSS1308,GCF_001870805.1_ASM187080v1_genomic.fna,GCF_001870805.1,GCF_001870805.1
 14;1;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0,Ralstonia solanacearum,FJAT_1458,GCF_001887535.1_ASM188753v1_genomic.fna,GCF_001887535.1,GCF_001887535.1
